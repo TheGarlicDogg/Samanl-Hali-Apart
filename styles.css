@@ -30,7 +30,6 @@ body{
     margin: 0;
     margin-left: 80px;
     color: #F5F5DC;
-    font-style: italic;
 }
 .navigation__list__item{
     font-size: 20px;
@@ -70,15 +69,16 @@ body{
     bottom: 38%;
     color: #F5F5DC;
     font-size: 90px;
-    left: 30%;
+    left: 22%;
 }
 .main-text-sub{
     position: absolute;
-    bottom: 38%;
+    bottom: 35%;
     color: #F5F5DC;
     font-size: 40px;
-    left: 57.5%;
+    left: 56%;
     font-weight: 400;
+    font-style: italic;
 }
 .block{
     display: flex;
